@@ -6,9 +6,9 @@
 The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
 
 ### Collaborators
-|Name     |  Github Page   |  Personal Website  |
+|Name     |  Github Page   |  Website CV  |
 |---------|-----------------|--------------------|
-|Misha Berrien | [mishaberrien](https://github.com/mishaberrien)| [www.mishaberrien.com](https://mishaberrien.com/)  |
+|Freddie Perez | [fabelperez](https://github.com/fabelperez)| [CV-Resume](https://fabelperez.github.io/resume/)  |
 
 ### Methods Used
 * Inferential Statistics
